@@ -1,2 +1,2 @@
 # ML-GUI
-An opensource Machine Learning tool (working)
+An open-source Machine Learning tool (working)
